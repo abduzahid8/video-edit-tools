@@ -1,0 +1,114 @@
+{
+  "01-early-portrait.png": {
+    "url": "https://media.vanityfair.com/photos/542065e01019a3955fea5cd8/master/w_1024%2Cc_limit/image.png",
+    "credit": "Vanity Fair, early Ralph Lauren portrait",
+    "pixels": [
+      1024,
+      1031
+    ]
+  },
+  "02-ties.jpg": {
+    "url": "https://img2.rtve.es/im/5421898/?w=900",
+    "credit": "RTVE, archival Polo tie showcase",
+    "pixels": [
+      900,
+      675
+    ]
+  },
+  "03-boutique.png": {
+    "url": "https://media.vanityfair.com/photos/542065e11019a3955fea5cdc/master/w_600%2Ch_720%2Cc_limit/image.png",
+    "credit": "Vanity Fair, early boutique photograph",
+    "pixels": [
+      600,
+      893
+    ]
+  },
+  "04-polo-blue.jpg": {
+    "url": "https://images.squarespace-cdn.com/content/v1/53c44cbde4b056f82568d1bb/1633555606897-JVWJZ1Q6VAW1SMH41FUU/Florian2.jpg",
+    "credit": "Braden Studio, Polo Ralph Lauren Dedicated campaign",
+    "pixels": [
+      1500,
+      1500
+    ]
+  },
+  "05-horse.jpg": {
+    "url": "https://i.mdel.net/i/db/2025/3/2483415/2483415-800w.jpg",
+    "credit": "models.com, Ralph Lauren Spring 2025 campaign",
+    "pixels": [
+      800,
+      963
+    ]
+  },
+  "06-collegiate.jpg": {
+    "url": "https://i.mdel.net/i/db/2025/5/2520383/2520383-800w.jpg",
+    "credit": "models.com, Polo Ralph Lauren Spring 2025",
+    "pixels": [
+      800,
+      1000
+    ]
+  },
+  "07-fall-coat.jpg": {
+    "url": "https://i.mdel.net/i/db/2025/9/2609398/2609398-800w.jpg",
+    "credit": "models.com, Polo Ralph Lauren Fall 2025",
+    "pixels": [
+      800,
+      1043
+    ]
+  },
+  "08-western-truck.jpg": {
+    "url": "https://mensfolio-my-production.s3.ap-southeast-1.amazonaws.com/2025/12/05162634/J001531_S2_001_00577_R_CMYK-min-2000x1334.jpg",
+    "credit": "Men's Folio Malaysia, Ralph Lauren Fall 2025 campaign",
+    "pixels": [
+      2000,
+      1334
+    ]
+  },
+  "09-rrl-tweed.jpg": {
+    "url": "https://i.mdel.net/i/db/2021/9/1573243/1573243-800w.jpg",
+    "credit": "models.com, Double RL Fall 2021",
+    "pixels": [
+      800,
+      988
+    ]
+  },
+  "10-rrl-denim.jpg": {
+    "url": "https://i.mdel.net/i/db/2025/8/2590395/2590395-800w.jpg",
+    "credit": "models.com, Double RL Fall 2025 catalog",
+    "pixels": [
+      800,
+      1044
+    ]
+  },
+  "11-purple-suit.jpg": {
+    "url": "https://cdn.tag-walk.com/view_nw/look34-12d56fe6.jpg",
+    "credit": "Tagwalk, Purple Label Fall/Winter 2025 look 34",
+    "pixels": [
+      1024,
+      1536
+    ]
+  },
+  "12-purple-riviera.webp": {
+    "url": "https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/6674cc653ef26cd92cdbf44f_FLAUNT_17.webp",
+    "credit": "Flaunt, Purple Label Spring 2025 presentation",
+    "pixels": [
+      2732,
+      4098
+    ]
+  },
+  "13-purple-waistcoat.jpg": {
+    "url": "https://cdn.tag-walk.com/view_nw/look36-131dae94.jpg",
+    "credit": "Tagwalk, Purple Label Fall/Winter 2025 look 36",
+    "pixels": [
+      1024,
+      1536
+    ]
+  },
+  "14-purple-pair.jpg": {
+    "url": "https://i.mdel.net/i/db/2025/3/2491437/2491437-800w.jpg",
+    "credit": "models.com, Purple Label Spring 2025 campaign",
+    "pixels": [
+      800,
+      1200
+    ]
+  }
+}
