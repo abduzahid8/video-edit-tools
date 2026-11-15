@@ -1,0 +1,9 @@
+node_modules/
+renders/*
+!renders/.gitkeep
+out/
+AIWardrobe_12_Fashion_Videos/
+.DS_Store
+**/.DS_Store
+*.log
+.env*

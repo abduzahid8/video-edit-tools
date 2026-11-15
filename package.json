@@ -1,0 +1,47 @@
+{
+  "name": "video-edit",
+  "version": "1.0.0",
+  "scripts": {
+    "video": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "render:test": "remotion render src/index.ts AltaTest renders/alta-test.mp4",
+    "render:alta": "remotion render src/index.ts AltaPromo renders/alta-promo.mp4",
+    "render:landscape": "remotion render src/index.ts AltaPromoLandscape renders/alta-landscape.mp4",
+    "render:square": "remotion render src/index.ts AltaPromoSquare renders/alta-square.mp4",
+    "analyze:reference": "node scripts/analyze-reference.mjs",
+    "media:prepare": "node scripts/media.mjs",
+    "render:check": "remotion render src/index.ts IntegrationCheck renders/integration-check.mp4 --gl=angle",
+    "render:knives": "remotion render src/index.ts KnivesOutCollage renders/knives-out-collage.mp4 --codec=h264 --crf=17 --audio-bitrate=320k",
+    "render:aiw-price": "remotion render src/index.ts AIWardrobePriceStyle renders/aiw-price-style-en.mp4 --codec=h264 --crf=17 --audio-bitrate=320k",
+    "render:aiw-price:ru": "remotion render src/index.ts AIWardrobePriceStyleRu renders/aiw-price-style-ru.mp4 --codec=h264 --crf=17 --audio-bitrate=320k",
+    "render:aiw-becoming": "remotion render src/index.ts AIWardrobeBecoming renders/aiw-becoming-en.mp4 --codec=h264 --crf=17 --audio-bitrate=320k",
+    "render:aiw-becoming:ru": "remotion render src/index.ts AIWardrobeBecomingRu renders/aiw-becoming-ru.mp4 --codec=h264 --crf=17 --audio-bitrate=320k",
+    "render:knives:long": "remotion render src/index.ts KnivesOutEditorial renders/knives-out-editorial.mp4 --codec=h264 --crf=17 --audio-bitrate=320k"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "ALTA code-driven motion design studio",
+  "private": true,
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.539",
+    "@remotion/fonts": "4.0.539",
+    "@remotion/lottie": "4.0.539",
+    "@remotion/motion-blur": "4.0.539",
+    "@remotion/three": "4.0.539",
+    "@remotion/transitions": "4.0.539",
+    "lottie-web": "5.13.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.539",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/three": "0.187.0",
+    "typescript": "7.0.2"
+  }
+}
