@@ -1,0 +1,92 @@
+[
+  {
+    "index": 1,
+    "start": 0.3,
+    "slotEnd": 4.35,
+    "duration": 3.135146,
+    "tempo": 1,
+    "script": "Нравится такой стиль? Запомните эти пять брендов.",
+    "spoken": "Нравится такой стиль? Запомните эти пять брендов.",
+    "file": "public/assets/heritage-jackets/voice-ru/01.wav"
+  },
+  {
+    "index": 2,
+    "start": 4.7,
+    "slotEnd": 8.35,
+    "duration": 2.964458,
+    "tempo": 1,
+    "script": "Barbour. Британский характер и вощёный хлопок.",
+    "spoken": "Барбур. Британский характер и вощёный хлопок.",
+    "file": "public/assets/heritage-jackets/voice-ru/02.wav"
+  },
+  {
+    "index": 3,
+    "start": 8.7,
+    "slotEnd": 12.35,
+    "duration": 2.742,
+    "tempo": 1,
+    "script": "Valstar. Мягкий силуэт и фактура замши.",
+    "spoken": "Вальстар. Мягкий силуэт и фактура замши.",
+    "file": "public/assets/heritage-jackets/voice-ru/03.wav"
+  },
+  {
+    "index": 4,
+    "start": 12.7,
+    "slotEnd": 16.35,
+    "duration": 2.873708,
+    "tempo": 1,
+    "script": "Todd Snyder. Современный взгляд на классику.",
+    "spoken": "Тодд Снайдер. Современный взгляд на классику.",
+    "file": "public/assets/heritage-jackets/voice-ru/04.wav"
+  },
+  {
+    "index": 5,
+    "start": 16.7,
+    "slotEnd": 20.35,
+    "duration": 3.583896,
+    "tempo": 1.00032200557103,
+    "script": "Buck Mason. Американский стиль. Простота и фактуры.",
+    "spoken": "Бак Мэйсон. Американский стиль. Простота и фактуры.",
+    "file": "public/assets/heritage-jackets/voice-ru/05.wav"
+  },
+  {
+    "index": 6,
+    "start": 20.52,
+    "slotEnd": 24.35,
+    "duration": 3.144271,
+    "tempo": 1,
+    "script": "Rocky Mountain Featherbed. Вестерн и многослойность.",
+    "spoken": "Рокки Маунтин Фезербед. Вестерн и многослойность.",
+    "file": "public/assets/heritage-jackets/voice-ru/06.wav"
+  },
+  {
+    "index": 7,
+    "start": 24.8,
+    "slotEnd": 28.8,
+    "duration": 2.924313,
+    "tempo": 1,
+    "script": "Пять подходов к стилю. Найдите среди них свой.",
+    "spoken": "Пять подходов к стилю. Найдите среди них свой.",
+    "file": "public/assets/heritage-jackets/voice-ru/07.wav"
+  },
+  {
+    "index": 8,
+    "start": 29.35,
+    "slotEnd": 36.25,
+    "duration": 5.307208,
+    "tempo": 1,
+    "script": "Перенесите вдохновение в AIWardrobe. Откройте демо и найдите свой следующий образ.",
+    "spoken": "Перенесите вдохновение в Эй Ай Уордроуб. Откройте демо и найдите свой следующий образ.",
+    "file": "public/assets/heritage-jackets/voice-ru/08.wav"
+  },
+  {
+    "index": 9,
+    "start": 36.85,
+    "slotEnd": 39.85,
+    "duration": 2.951479,
+    "tempo": 1.0524625850340137,
+    "script": "Попробуйте AIWardrobe. Соберите свой образ.",
+    "spoken": "Попробуйте Эй Ай Уордроуб. Соберите свой образ.",
+    "file": "public/assets/heritage-jackets/voice-ru/09.wav"
+  }
+]

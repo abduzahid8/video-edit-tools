@@ -1,0 +1,40 @@
+{
+  "jobs": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_Headshot_2010.JPG",
+    "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/67/Steve_Jobs_Headshot_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Matthew Yohe",
+    "license": "CC BY-SA 3.0"
+  },
+  "jobs-full": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stevejobs_Macworld2005.jpg",
+    "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/Stevejobs_Macworld2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "mylerdude",
+    "license": "CC BY 2.0"
+  },
+  "huang": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_20231109.jpg",
+    "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jensen_Huang_20231109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "\u7e3d\u7d71\u5e9c",
+    "license": "CC BY 2.0"
+  },
+  "huang-stage": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nvidia_CEO_Jensen_Huang_gestikuliert.jpg",
+    "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nvidia_CEO_Jensen_Huang_gestikuliert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Maurizio Pesce",
+    "license": "CC BY 2.0"
+  },
+  "zuckerberg-front": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(25140171161).jpg",
+    "localOriginal": "zuckerberg-25140171161.jpg",
+    "author": "Alessio Jacona",
+    "license": "CC BY-SA 2.0",
+    "photoDate": "2016-02-21"
+  },
+  "zuckerberg-back": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(24602698004).jpg",
+    "localOriginal": "zuckerberg-24602698004.jpg",
+    "author": "Alessio Jacona",
+    "license": "CC BY-SA 2.0",
+    "photoDate": "2016-02-21"
+  }
+}

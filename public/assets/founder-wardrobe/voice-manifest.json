@@ -1,0 +1,66 @@
+[
+  {
+    "from": 0.1,
+    "seconds": 3.1,
+    "text": "Three founders. Three unmistakable wardrobes.",
+    "actualSeconds": 3.1,
+    "timeCompression": 1.054,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 3.7,
+    "seconds": 6.5,
+    "text": "Steve Jobs. Black mock neck, blue jeans. A simple contrast, repeated across the years.",
+    "actualSeconds": 6.5,
+    "timeCompression": 1.016,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 10.9,
+    "seconds": 6.5,
+    "text": "Mark Zuckerberg. The grey tee. Understated colour and a familiar, casual silhouette.",
+    "actualSeconds": 5.378,
+    "timeCompression": 1,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 18.1,
+    "seconds": 6.5,
+    "text": "Jensen Huang. The black leather jacket. Strong texture turns a simple shape into a signature.",
+    "actualSeconds": 5.843,
+    "timeCompression": 1,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 25.15,
+    "seconds": 2.4,
+    "text": "The common thread? A clear point of view.",
+    "actualSeconds": 2.4,
+    "timeCompression": 1.06,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 28.05,
+    "seconds": 3.8,
+    "text": "Different people. Different clothes. The same sense of identity.",
+    "actualSeconds": 3.8,
+    "timeCompression": 1.192,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 32.4,
+    "seconds": 3.2,
+    "text": "Choose your base. Add one detail. Make it repeatable.",
+    "actualSeconds": 3.19,
+    "timeCompression": 1.111,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  },
+  {
+    "from": 36.25,
+    "seconds": 3.3,
+    "text": "Build a wardrobe that looks like you. And who you are becoming.",
+    "actualSeconds": 3.3,
+    "timeCompression": 1.091,
+    "voice": "macOS Daniel; offline synthetic narration, not a founder voice"
+  }
+]

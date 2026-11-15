@@ -1,0 +1,66 @@
+[
+  {
+    "start": 0.18,
+    "end": 4.55,
+    "duration": 4.330167,
+    "tempo": 1.1052143187066974,
+    "text": "What does modern luxury look like? Four stories. One considered life.",
+    "file": "voice-01.wav"
+  },
+  {
+    "start": 4.98,
+    "end": 14.18,
+    "duration": 8.184229,
+    "tempo": 1,
+    "text": "Ralph Lauren brought Polo culture to Tokyo. Archives, collectors, and vintage pieces. A world that lives beyond the shirt.",
+    "file": "voice-02.wav"
+  },
+  {
+    "start": 14.58,
+    "end": 23.78,
+    "duration": 9.174833,
+    "tempo": 1.034597816593886,
+    "text": "Audemars Piguet reimagines Royal Oak geometry as jewellery. For a man's wardrobe, take the principle: one signature detail, worn with confidence.",
+    "file": "voice-03.wav"
+  },
+  {
+    "start": 24.18,
+    "end": 33.38,
+    "duration": 8.313167,
+    "tempo": 1,
+    "text": "American Express opens a Centurion Lounge at Schiphol. The style lesson for the journey? Soft tailoring, a good coat, and room to move.",
+    "file": "voice-04.wav"
+  },
+  {
+    "start": 33.78,
+    "end": 42.98,
+    "duration": 8.7395,
+    "tempo": 1,
+    "text": "Equinox brings performance luxury to Amaala on the Red Sea. Think recovery, balance, and an easier pace. Dress with the same intention.",
+    "file": "voice-05.wav"
+  },
+  {
+    "start": 43.38,
+    "end": 47.8,
+    "duration": 4.383771,
+    "tempo": 1.004069178082193,
+    "text": "Four different worlds. One question: how do you make them your own?",
+    "file": "voice-06.wav"
+  },
+  {
+    "start": 48.18,
+    "end": 57.35,
+    "duration": 7.671521,
+    "tempo": 1,
+    "text": "Start with A I Wardrobe. Choose the occasion and your style. Explore a suggested outfit, then plan the look in your calendar.",
+    "file": "voice-07.wav"
+  },
+  {
+    "start": 57.72,
+    "end": 60.4,
+    "duration": 2.371208,
+    "tempo": 1,
+    "text": "Try the demo. Find your next look.",
+    "file": "voice-08.wav"
+  }
+]
