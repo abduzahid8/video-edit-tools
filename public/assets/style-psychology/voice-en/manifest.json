@@ -1,0 +1,102 @@
+[
+  {
+    "index": 1,
+    "start": 0.16,
+    "end": 4.65,
+    "duration": 3.809667,
+    "tempo": 1,
+    "text": "Dressing well can change more than how you look. Notice how you feel.",
+    "file": "01.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 2,
+    "start": 4.96,
+    "end": 9.45,
+    "duration": 3.117563,
+    "tempo": 1,
+    "text": "Your clothes send a signal to the room, and to yourself.",
+    "file": "02.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 3,
+    "start": 9.76,
+    "end": 14.25,
+    "duration": 4.411479,
+    "tempo": 1.0413768707482993,
+    "text": "Psychologists call it enclothed cognition. Clothing can influence how we feel.",
+    "file": "03.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 4,
+    "start": 14.56,
+    "end": 19.05,
+    "duration": 3.513646,
+    "tempo": 1,
+    "text": "Start with the fit. A natural shoulder. Enough room to move.",
+    "file": "04.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 5,
+    "start": 19.36,
+    "end": 23.85,
+    "duration": 3.161875,
+    "tempo": 1,
+    "text": "Choose a considered palette. Let texture add character.",
+    "file": "05.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 6,
+    "start": 24.16,
+    "end": 28.65,
+    "duration": 4.178229,
+    "tempo": 1,
+    "text": "Keep the details that feel like you. Make dressing a small daily ritual.",
+    "file": "06.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 7,
+    "start": 28.96,
+    "end": 33.45,
+    "duration": 3.57375,
+    "tempo": 1,
+    "text": "Dress for the day ahead. Turn inspiration into your own wardrobe.",
+    "file": "07.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 8,
+    "start": 33.76,
+    "end": 38.25,
+    "duration": 3.803229,
+    "tempo": 1,
+    "text": "With A I Wardrobe, start with what you own. Choose your occasion.",
+    "file": "08.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 9,
+    "start": 38.56,
+    "end": 43.05,
+    "duration": 3.758458,
+    "tempo": 1,
+    "text": "Explore a suggested outfit. Then plan your look in the calendar.",
+    "file": "09.wav",
+    "voice": "Daniel"
+  },
+  {
+    "index": 10,
+    "start": 43.36,
+    "end": 47.85,
+    "duration": 4.165438,
+    "tempo": 1,
+    "text": "See it in action. Try the A I Wardrobe demo. Dress with intention.",
+    "file": "10.wav",
+    "voice": "Daniel"
+  }
+]
