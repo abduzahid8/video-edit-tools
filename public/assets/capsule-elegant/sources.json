@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "cream": "https://www.piniparma.com/products/off-white-cashmere-turtleneck-made-in-italy",
+    "grey": "https://www.piniparma.com/products/light-grey-prince-of-wales-jacket-made-in-italy-1",
+    "taupe": "https://www.piniparma.com/products/taupe-knitted-jacket-wool-and-cashmere",
+    "trousers": "https://www.piniparma.com/products/sand-flannel-alassio-trousers-made-in-italy",
+    "shirt": "https://www.piniparma.com/products/ivory-cotton-and-tencel-shirt-made-in-italy",
+    "navy": "https://www.piniparma.com/products/navy-blue-velvet-jacket-made-in-italy"
+  },
+  "images": {
+    "cream-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/off-white-cashmere-turtleneck.webp?width=1600",
+    "cream-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/off-white-cashmere-turtleneck-1.webp?width=1600",
+    "cream-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/off-white-cashmere-turtleneck-2.webp?width=1600",
+    "cream-3": "https://cdn.shopify.com/s/files/1/1383/8317/files/off-white-cashmere-turtleneck-3.webp?width=1600",
+    "grey-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/light-grey-prince-of-wales-jacket-7.webp?width=1600",
+    "grey-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/PINIFW2518450.webp?width=1600",
+    "grey-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/light-grey-prince-of-wales-jacket-8.webp?width=1600",
+    "grey-3": "https://cdn.shopify.com/s/files/1/1383/8317/files/light-grey-prince-of-wales-jacket-9.webp?width=1600",
+    "taupe-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/Taupe-knitted-jacket-2.webp?width=1600",
+    "taupe-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/Taupe-knitted-jacket-4.webp?width=1600",
+    "taupe-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/Taupe-knitted-jacket-3.webp?width=1600",
+    "trousers-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/beige-alassio-trousers.webp?width=1600",
+    "trousers-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/beige-alassio-trousers-1.webp?width=1600",
+    "trousers-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/beige-alassio-trousers-2.webp?width=1600",
+    "trousers-3": "https://cdn.shopify.com/s/files/1/1383/8317/files/beige-alassio-trousers-3.webp?width=1600",
+    "shirt-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/ivory-cotton-tencel-shirt.webp?width=1600",
+    "shirt-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/ivory-cotton-tencel-shirt-1.webp?width=1600",
+    "shirt-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/ivory-cotton-tencel-shirt-2.webp?width=1600",
+    "shirt-3": "https://cdn.shopify.com/s/files/1/1383/8317/files/ivory-cotton-tencel-shirt-3.webp?width=1600",
+    "navy-0": "https://cdn.shopify.com/s/files/1/1383/8317/files/hf_20260708_075956_08dec573-a9fe-495e-b17c-5a1ba7a66b17.webp?width=1600",
+    "navy-1": "https://cdn.shopify.com/s/files/1/1383/8317/files/navy-velvet-jacket-2.webp?width=1600",
+    "navy-2": "https://cdn.shopify.com/s/files/1/1383/8317/files/navy-velvet-jacket-1.webp?width=1600",
+    "navy-3": "https://cdn.shopify.com/s/files/1/1383/8317/files/hf_20260708_074220_35d37994-1e65-4805-afc9-e5a2b70f4841.webp?width=1600",
+    "navy-4": "https://cdn.shopify.com/s/files/1/1383/8317/files/navy-velvet-jacket-5.webp?width=1600"
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "from": 0.12,
+    "seconds": 1.75,
+    "text": "Их стиль узнают сразу.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.379,
+    "timeCompression": 1
+  },
+  {
+    "from": 2.03,
+    "seconds": 1.35,
+    "text": "Три личные формулы.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.188,
+    "timeCompression": 1
+  },
+  {
+    "from": 3.57,
+    "seconds": 2.25,
+    "text": "Дуров. Чёрный и чёткий силуэт.",
+    "voice": "macOS Milena",
+    "actualDuration": 2.039,
+    "timeCompression": 1
+  },
+  {
+    "from": 6.08,
+    "seconds": 2.25,
+    "text": "Джобс. Классика и личная деталь.",
+    "voice": "macOS Milena",
+    "actualDuration": 2.241,
+    "timeCompression": 1.02
+  },
+  {
+    "from": 8.58,
+    "seconds": 2.25,
+    "text": "Хуанг. Простая форма и фактура.",
+    "voice": "macOS Milena",
+    "actualDuration": 2.189,
+    "timeCompression": 1
+  },
+  {
+    "from": 11.08,
+    "seconds": 1.75,
+    "text": "Силуэт, фактура, деталь.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.743,
+    "timeCompression": 1.133
+  },
+  {
+    "from": 13.1,
+    "seconds": 1.7,
+    "text": "Теперь — ваша формула.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.564,
+    "timeCompression": 1
+  },
+  {
+    "from": 15.1,
+    "seconds": 2.25,
+    "text": "Выберите повод и свой стиль.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.507,
+    "timeCompression": 1
+  },
+  {
+    "from": 17.68,
+    "seconds": 2.5,
+    "text": "Получите готовый образ.",
+    "voice": "macOS Milena",
+    "actualDuration": 1.405,
+    "timeCompression": 1
+  },
+  {
+    "from": 21.2,
+    "seconds": 4.5,
+    "text": "Попробуйте Эй Ай Уордроуб. Создайте свой первый образ.",
+    "voice": "macOS Milena",
+    "actualDuration": 3.426,
+    "timeCompression": 1
+  }
+]

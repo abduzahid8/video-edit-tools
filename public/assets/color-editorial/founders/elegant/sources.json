@@ -1,0 +1,457 @@
+{
+  "jobs": {
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Steve_Jobs_January_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 1600,
+    "thumbheight": 1973,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Steve_Jobs_January_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 1600,
+      "height": 1973
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Steve_Jobs_January_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_January_1984.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190400370",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-04-26 00:59:53",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Steve Jobs January 1984",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from the Library of Congress|Macintosh 128K|Featured pictures by others nominated by Yann Forget|Extracted images|PD-Gotfryd|Men with red background|Library of Congress-no known copyright restrictions|1984 portrait photographs of men|1984 in information technology|Photographs by Bernard Gotfryd|Featured photographs in the public domain|Featured pictures taken on slide film|Computers running Classic Mac OS|Steve Jobs in 1984",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Steve Jobs and Macintosh computer, January 1984, by Bernard Gotfryd.<p>The image on the computer screen is \u9aea\u68b3\u3051\u308b\u5973 (A Woman Combing Her Hair) [<a href=\"//commons.wikimedia.org/wiki/File:Hashiguchi_Goyo_-_Woman_in_Blue_Combing_Her_Hair_-_Walters_95880.jpg\" title=\"File:Hashiguchi Goyo - Woman in Blue Combing Her Hair - Walters 95880.jpg\">media</a>], by Hashiguchi Goyo (d. 1921). Tif version of photo converted to jpg, retouched and edited.</p>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1984-01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/gtfy.01855\">gtfy.01855</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Photo: Bernard Gotfryd - Edited from tif by <a href=\"//commons.wikimedia.org/wiki/User:W.carter\" title=\"User:W.carter\">Cart</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "durov-young": {
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Pavel_Durov_26years.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 1600,
+    "thumbheight": 3056,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Pavel_Durov_26years.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 1600,
+      "height": 3056
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Pavel_Durov_26years.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pavel_Durov_26years.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12162617",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2010-11-27 20:36:46",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pavel Durov 26years",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Sony DSC-W300|Pavel Durov",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Pavel_Durov\" class=\"extiw\" title=\"en:Pavel Durov\">Pavel Durov</a>, on his 26th birthday. <a href=\"https://en.wikipedia.org/wiki/Marble_Palace\" class=\"extiw\" title=\"en:Marble Palace\">Marble Palace</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-10-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%93%D0%B0%D1%8F%D0%BD%D1%8D&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:\u0413\u0430\u044f\u043d\u044d (page does not exist)\">\u0413\u0430\u044f\u043d\u044d \u041c\u0430\u043d\u0443\u043a\u044f\u043d</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> \u2013 to copy, distribute and transmit the work</li>\n<li><b>to remix</b> \u2013 to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> \u2013 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "durov-stage": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pavel_Durov_at_HL_2010.jpg/1920px-Pavel_Durov_at_HL_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 1600,
+    "thumbheight": 1130,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pavel_Durov_at_HL_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pavel_Durov_at_HL_2010.jpg/1920px-Pavel_Durov_at_HL_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 1600,
+      "height": 1130,
+      "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pavel_Durov_at_HL_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pavel_Durov_at_HL_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pavel_Durov_at_HL_2010.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24392168",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2013-02-01 20:06:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pavel Durov at HL 2010",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Nikon D40|Pavel Durov|Self-published work|Men with microphones",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Pavel_Durov\" class=\"extiw\" title=\"en:Pavel Durov\">Pavel Durov</a> (on left) at HighLoad++ 2010 conference (Moscow)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-10-26 15:44:13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:AntonioK\" title=\"User:AntonioK\">Antonio Kless</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "huang": {
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 1600,
+    "thumbheight": 2378,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 1600,
+      "height": 2378
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped)_(2024).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149024940",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-06-03 08:13:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Jensen Huang (cropped) (2024)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Extracted images|Admin reviewed EC-Audiovisual Center images|Media from the European Commission|Jen-Hsun Huang in 2024",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Jensen Huang, Founder, President and CEO of NVIDIA, at a meeting with Josep Borrell Fontelles, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-05-13 14:43:32",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://audiovisual.ec.europa.eu/en/photo-details/P-063789~2F00-17\">Visit of Josep Borrell Fontelles, Vice-President of the European Commission, to the United States </a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Photographer: Peter Dasilva",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "\u00a9 European Union, 2026",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "huang-portrait": {
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jensen_Huang_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 1600,
+    "thumbheight": 1914,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jensen_Huang_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 1600,
+      "height": 1914
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jensen_Huang_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=136997708",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2023-09-05 02:23:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Jensen Huang (cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GODL-India|Unreviewed photos of GODL-India|Extracted images|Jen-Hsun Huang in 2023",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Mr. Jensen Huang, the CEO of Nvidia met the Prime Minister, Shri Narendra Modi, at Prime Minister's Office in New Delhi, India.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-09-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://pib.gov.in/PressReleasePage.aspx?PRID=1954722\">Press Information Bureau</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Prime_Minister%27s_Office_(India)\" class=\"extiw\" title=\"w:en:Prime Minister's Office (India)\"><span title=\"Office of the Prime Minister of India\">Prime Minister's Office</span></a>\n</bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "GODL-India",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Government Open Data License \u2013 India",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  }
+}
