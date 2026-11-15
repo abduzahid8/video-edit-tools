@@ -328,3 +328,10 @@ export const tasteOverPriceBrand = {
   photo: 'saturate(.73) contrast(1.025)',
   shadow: '0 18px 50px rgba(27,29,24,.12)',
 } as const;
+// Creating a wardrobe — example3's white space, italic serif and photographic figures.
+export const creatingWardrobeBrand = {
+  paper:'#ffffff', ink:'#262724', muted:'#7e8077', line:'#c9cbc3',
+  olive:'#777b66', navy:'#273a4b', cream:'#ded3be',
+  serif:'Georgia, "Times New Roman", serif', sans:'"Helvetica Neue", Arial, sans-serif',
+  photograph:'saturate(.76) contrast(1.02)',
+} as const;

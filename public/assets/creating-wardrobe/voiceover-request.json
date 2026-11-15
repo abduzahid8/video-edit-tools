@@ -1,0 +1,21 @@
+{
+  "status": "blocked-no-generation-started",
+  "voices": {
+    "en": "WTUK291rZZ9CLPCiFTfh",
+    "ru": "DhwIuljOm695yhWY4OpF"
+  },
+  "prompts": {
+    "en": "Want to replace your entire wardrobe? Before you buy anything, ask yourself: what would I buy again? The shirt you reach for every week. Trousers that sit right. Knitwear that works with both. A jacket that still feels like you. Those pieces are your starting point. Keep the fit. Keep the colours that work together. Then look for the gap, instead of another impulse buy. A better wardrobe starts with understanding the one you own. That's where A I Wardrobe comes in. Explore your wardrobe, choose an occasion, and see an outfit come together. Try the A I Wardrobe demo. Build from what already works.",
+    "ru": "Хочется полностью сменить гардероб? Прежде чем покупать новое, спросите себя: что я купил бы снова? Рубашку, которую носите каждую неделю. Брюки с хорошей посадкой. Трикотаж, который с ними сочетается. Пиджак, в котором вы чувствуете себя собой. Это ваша отправная точка. Сохраните удачную посадку. Цвета, которые работают вместе. А потом найдите, чего не хватает, вместо очередной случайной покупки. Хороший гардероб начинается с понимания вещей, которые у вас уже есть. В этом поможет Эй Ай Уордроуб. Откройте свой гардероб, выберите повод и посмотрите готовый образ. Попробуйте демо Эй Ай Уордроуб. Начните с того, что уже работает."
+  },
+  "results": {
+    "en": {
+      "error": "creative_run_flow_nodes failed on flow kwffaF3ZECANlLDRzCV2. Free generations are busy right now: this take did not start. Nothing was charged. Do not start another generation this turn: tell the user in one sentence that it's busy and they can try again in a minute or upgrade.",
+      "error_code": "INVALID_ARGUMENT"
+    },
+    "ru": {
+      "error": "creative_run_flow_nodes failed on flow bv86ohDNzAoZzW4RUaqE. Free generations are busy right now: this take did not start. Nothing was charged. Do not start another generation this turn: tell the user in one sentence that it's busy and they can try again in a minute or upgrade.",
+      "error_code": "INVALID_ARGUMENT"
+    }
+  }
+}

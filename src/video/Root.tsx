@@ -1,3 +1,5 @@
+import {CreatingWardrobe,CreatingWardrobeRu} from './compositions/CreatingWardrobe';
+import {creatingWardrobeTimeline} from './timeline';
 import {TasteOverPrice, TasteOverPriceRu} from "./compositions/TasteOverPrice";
 import {tasteOverPriceTimeline} from "./timeline";
 import {StylePsychology, StylePsychologyRu} from "./compositions/StylePsychology";
@@ -88,6 +90,8 @@ import {WardrobeBecoming, WardrobeBecomingRu} from "./compositions/WardrobeBecom
 import {becomingTimeline} from "./timeline";
 export const Root = () => (
   <>
+    <Composition id="AIWardrobeCreatingWardrobe" component={CreatingWardrobe} width={1080} height={1920} fps={FPS} durationInFrames={frames(creatingWardrobeTimeline.duration,FPS)} defaultProps={{voiceoverReady:false}} />
+    <Composition id="AIWardrobeCreatingWardrobeRu" component={CreatingWardrobeRu} width={1080} height={1920} fps={FPS} durationInFrames={frames(creatingWardrobeTimeline.duration,FPS)} defaultProps={{voiceoverReady:false}} />
     <Composition id="AIWardrobeTasteOverPrice" component={TasteOverPrice} width={1080} height={1920} fps={FPS} durationInFrames={frames(tasteOverPriceTimeline.duration, FPS)} />
     <Composition id="AIWardrobeTasteOverPriceRu" component={TasteOverPriceRu} width={1080} height={1920} fps={FPS} durationInFrames={frames(tasteOverPriceTimeline.duration, FPS)} />
     <Composition id="AIWardrobeStylePsychology" component={StylePsychology} width={1080} height={1920} fps={FPS} durationInFrames={frames(stylePsychologyTimeline.duration, FPS)} />

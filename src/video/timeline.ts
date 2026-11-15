@@ -656,3 +656,9 @@ export const tasteOverPriceTimeline = {
   reveal: .42, secondReveal: .65, annotation: .8,
   source: {wardrobe: 11.1, occasion: 46.6, result: 65.4, detail: 66.4, invite: 65.7},
 } as const;
+// Every photographic editing unit is 2.4 seconds. Frames always derive from FPS.
+export const creatingWardrobeTimeline = {
+  duration:48, shot:2.4, enter:.48, annotation:.72, secondReveal:.42,
+  scenes:{hook:0,before:2.4,question:4.8,shirt:7.2,trousers:9.6,knit:12,jacket:14.4,foundation:16.8,fit:19.2,palette:21.6,gap:24,impulse:26.4,combinations:28.8,own:31.2,wardrobe:33.6,wardrobeDetail:36,occasion:38.4,outfit:40.8,outfitDetail:43.2,close:45.6},
+  source:{wardrobe:10.8, wardrobeDetail:13.2, occasion:47, outfit:65.4, outfitDetail:66.5, close:65.8},
+} as const;
