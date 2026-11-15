@@ -1,0 +1,184 @@
+{
+  "coat": {
+    "page": "https://bergbergstore.com/pages/studio-looks",
+    "image": "https://bergbergstore.com/cdn/shop/files/BTS-Updates-10.jpg?width=2200",
+    "width": 2200,
+    "height": 2933
+  },
+  "dark": {
+    "page": "https://bergbergstore.com/pages/studio-looks",
+    "image": "https://bergbergstore.com/cdn/shop/files/BTS-Updates-14_0efda4f0-afcd-436a-a62b-be5c483d0139.jpg?width=2200",
+    "width": 2200,
+    "height": 2198
+  },
+  "dark-detail": {
+    "page": "https://bergbergstore.com/pages/studio-looks",
+    "image": "https://bergbergstore.com/cdn/shop/files/BTS-Updates-7_31201bd4-5681-480f-89e5-48aa63083689.jpg?width=2200",
+    "width": 2200,
+    "height": 2933
+  },
+  "tweed": {
+    "page": "https://bergbergstore.com/pages/studio-looks",
+    "image": "https://bergbergstore.com/cdn/shop/files/BTS-Updates-15_34d2da21-3215-4183-aa31-57cfb9e35c34.jpg?width=2200",
+    "width": 2200,
+    "height": 2933
+  },
+  "cream": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01754.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "cream-detail": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01760.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "knit-detail": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01688.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "olive": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01645.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "olive-detail": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01660.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "linen-detail": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01738.jpg?width=2200",
+    "width": 1400,
+    "height": 1866
+  },
+  "relaxed": {
+    "page": "https://www.drakes.com/blogs/news/the-autumn-transitional-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/Transitional_AW24_LayoutDOC10.jpg?width=2200",
+    "width": 1240,
+    "height": 1535
+  },
+  "open-dark": {
+    "page": "https://www.drakes.com/blogs/news/the-summer-tailoring-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/SUMMERTAILORING5.jpg?width=2400",
+    "width": 1535,
+    "height": 1240,
+    "preparedPixels": [
+      818,
+      1175
+    ]
+  },
+  "open-light": {
+    "page": "https://bergbergstore.com/pages/summer-looks-2",
+    "image": "https://bergbergstore.com/cdn/shop/files/DSC01732_b28cbb24-6fdb-44f2-a0a3-a73a06a4a71c.jpg?width=2400",
+    "width": 1400,
+    "height": 1866,
+    "preparedPixels": [
+      1400,
+      1866
+    ]
+  },
+  "open-knit": {
+    "page": "https://www.drakes.com/blogs/news/the-autumn-transitional-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/Transitional_AW24_LayoutDOC4.jpg?width=2400",
+    "width": 1240,
+    "height": 1535,
+    "preparedPixels": [
+      1240,
+      1535
+    ]
+  },
+  "open-portrait": {
+    "page": "https://www.drakes.com/blogs/news/the-summer-tailoring-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/SUMMERTAILORING7.jpg?width=2400",
+    "width": 1535,
+    "height": 1240,
+    "preparedPixels": [
+      830,
+      1158
+    ]
+  },
+  "fan-street": {
+    "page": "https://www.drakes.com/blogs/news/drakes-zach-zono-lookbook-part-2",
+    "image": "https://www.drakes.com/cdn/shop/articles/Zach_Layout24.jpg?width=2400",
+    "width": 1125,
+    "height": 1406,
+    "preparedPixels": [
+      1125,
+      1406
+    ]
+  },
+  "fan-coat": {
+    "page": "https://bergbergstore.com/pages/studio-looks",
+    "image": "https://bergbergstore.com/cdn/shop/files/BTS-Updates-8-kopi.jpg?width=2400",
+    "width": 2400,
+    "height": 2398,
+    "preparedPixels": [
+      2400,
+      2398
+    ]
+  },
+  "compare-tailored": {
+    "page": "https://www.drakes.com/blogs/news/the-autumn-transitional-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/Transitional_AW24_LayoutDOC12.jpg?width=2400",
+    "width": 1240,
+    "height": 1535,
+    "preparedPixels": [
+      1240,
+      1535
+    ]
+  },
+  "compare-relaxed": {
+    "page": "https://www.drakes.com/blogs/news/the-summer-tailoring-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/SUMMERTAILORING27.jpg?width=2400",
+    "width": 1535,
+    "height": 1240,
+    "preparedPixels": [
+      771,
+      1175
+    ]
+  },
+  "close-navy": {
+    "page": "https://www.drakes.com/blogs/news/the-summer-tailoring-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/SUMMERTAILORING25.jpg?width=2400",
+    "width": 1535,
+    "height": 1240,
+    "preparedPixels": [
+      797,
+      1166
+    ]
+  },
+  "close-brown": {
+    "page": "https://www.drakes.com/blogs/news/drakes-zach-zono-lookbook-part-2",
+    "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/Zach_Layout36.jpg?width=2400",
+    "width": 1125,
+    "height": 1406
+  },
+  "lapel-close": {
+    "page": "https://www.drakes.com/blogs/news/the-summer-tailoring-lookbook",
+    "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/SUMMERTAILORING8.jpg?width=2400",
+    "width": 1949,
+    "height": 1240,
+    "preparedPixels": [
+      897,
+      1128
+    ]
+  },
+  "tie-close": {
+    "page": "https://www.drakes.com/blogs/news/drakes-zach-zono-lookbook-part-2",
+    "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/Zach_Layout31.jpg?width=2400",
+    "width": 1125,
+    "height": 1406,
+    "preparedPixels": [
+      1125,
+      1406
+    ]
+  }
+}

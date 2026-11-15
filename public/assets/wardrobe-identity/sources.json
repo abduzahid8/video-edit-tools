@@ -1,0 +1,18 @@
+{
+  "source": "/Users/v.zahid/Downloads/theme_about_wardrobe.mp4",
+  "stillsSeconds": {
+    "portrait": 25,
+    "side": 5.6,
+    "stage": 7.5,
+    "interview": 9.7,
+    "jet": 21.8,
+    "shopping": 23.6,
+    "closet": 38.5,
+    "closet-front": 39.8,
+    "signature": 45.1,
+    "decision": 59.6
+  },
+  "crop": "720:800:0:0; removes burned captions below y=800",
+  "audio": "Original source narration and embedded sound, unchanged timing",
+  "masks": "Local Apple Vision person segmentation; alpha eroded 3px, softened 0.45px and trimmed"
+}
